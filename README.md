@@ -1,4 +1,4 @@
 # github-jk-is-2026-sk2
 Třetí úkol změna
 Zkouška
-přesunu
+přesunu z githubu
